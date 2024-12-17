@@ -45,6 +45,23 @@ HF_API_TOKEN=your_token_here
 flutter run
 ```
 
+## 🌐 Chrome Extension Setup
+
+To use CatchThePhish as a Chrome extension:
+
+1. Build the Flutter web app:
+```bash
+flutter build web
+```
+
+2. Load the extension in Chrome:
+   - Open Chrome and go to `chrome://extensions/`
+   - Enable "Developer mode" in the top right
+   - Click "Load unpacked"
+   - Select the `build/web` directory
+
+3. The extension is now ready to use! Click the CatchThePhish icon in your Chrome toolbar to analyze emails.
+
 ## 🛠️ Dependencies
 
 - `wave`: ^0.2.2
@@ -77,7 +94,7 @@ flutter run
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/catch-the-phish](https://github.com/yourusername/catch-the-phish)
+Project Link: [https://github.com/Najma-Shakirah/catch-the-phish](https://github.com/Najma-Shakirah/catch-the-phish)
 
 ---
 Made with ❤️ by Pixory Team
