@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Catch The Phish",
+  "version": "1.0",
+  "description": "A phishing email detection app.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Catch The Phish"
+  },
+  "icons": {
+    "16": "icons/icons8-fish-16.png",
+    "48": "icons/icons8-fish-48.png"
+  },
+
+  "permissions": [],
+  "host_permissions": [],
+  "background": {
+    
+  }
+}

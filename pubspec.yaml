@@ -1,0 +1,30 @@
+name: catch_the_phish
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  wave: ^0.2.2
+  google_fonts: ^6.2.1
+  http: ^1.2.1
+  flutter_svg: ^2.0.16  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/warning_icon.png
+    - assets/safe_icon.png
+    - assets/warning_icon.svg
+    - assets/safe_icon.svg
+    - assets/icons8-fish-16.png
+    - assets/icons8-fish-48.png
