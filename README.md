@@ -2,12 +2,12 @@
 
 CatchThePhish is a Google Chrome Extension that helps users identify potential phishing emails using machine learning. Built with Material Design 3 and powered by Hugging Face's state-of-the-art AI model, this app provides real-time analysis of email content to protect users from phishing attempts.
 
-![CatchThePhish Demo](ctpdemo.gif)
+![CatchThePhish Demo](catchthephish_demo.gif)
 
 ## ✨ Features
 
 - 🔍 Real-time phishing detection
-- 🌊 Beautiful wave animation interface
+- 🌊 Cute wave animation and fish themed interface
 - 🎨 Modern Material Design 3 UI
 - 🤖 Powered by DistilBERT AI model
 - 📱 Cross-platform support (iOS, Android, Web)
